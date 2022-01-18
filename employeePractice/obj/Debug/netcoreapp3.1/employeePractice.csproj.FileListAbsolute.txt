@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\bin\Debug\netcoreapp3.1\employeePractice.exe
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\bin\Debug\netcoreapp3.1\employeePractice.deps.json
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\bin\Debug\netcoreapp3.1\employeePractice.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\bin\Debug\netcoreapp3.1\employeePractice.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\bin\Debug\netcoreapp3.1\employeePractice.dll
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\bin\Debug\netcoreapp3.1\employeePractice.pdb
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.dll
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.pdb
+C:\Users\Kranthi\Desktop\Practice\employeePractice\employeePractice\obj\Debug\netcoreapp3.1\employeePractice.genruntimeconfig.cache
