@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\employeePractice\\employeePractice\\employeePractice.csproj",
+      "projectUniqueName": "C:\\Users\\priya\\OneDrive\\Desktop\\employeePractice\\employeePractice\\employeePractice.csproj",
       "projectName": "employeePractice",
-      "projectPath": "D:\\Practice\\employeePractice\\employeePractice\\employeePractice.csproj",
+      "projectPath": "C:\\Users\\priya\\OneDrive\\Desktop\\employeePractice\\employeePractice\\employeePractice.csproj",
       "packagesPath": "C:\\Users\\priya\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\employeePractice\\employeePractice\\obj\\",
+      "outputPath": "C:\\Users\\priya\\OneDrive\\Desktop\\employeePractice\\employeePractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\priya\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,9 +8,21 @@ namespace employeePractice
     {
         public void StringRev()
         {
-            string a, word;
-            a = "Akhil";
-
+            string name, rev;
+            name = "akhil";
+            char[] ch = name.ToCharArray();
+            Array.Reverse(ch);
+            rev = new string(ch);
+            bool b = name.Equals(rev, StringComparison.OrdinalIgnoreCase);
+            if (b == true)
+            {
+                Console.WriteLine("" + name + " is a Palindrome!");
+            }
+            else
+            {
+                Console.WriteLine(" " + name + " is not a Palindrome!");
+            }
+            Console.Read();
         }
     }
 }
